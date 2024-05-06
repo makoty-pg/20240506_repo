@@ -1,0 +1,38 @@
+commit 1da192a143e792cc48be83d45f32c8b7fbdd687f
+Merge: 8cf2201 8fa8db3
+Author: Fujii Makoto <147135481+makoty-pg@users.noreply.github.com>
+Date:   Mon May 6 16:00:19 2024 +0900
+
+    Merge branch 'main' of https://github.com/makoty-pg/20240506_repo
+
+commit 8cf2201d338221c3503618f24479370324776461
+Author: Fujii Makoto <147135481+makoty-pg@users.noreply.github.com>
+Date:   Mon May 6 15:56:20 2024 +0900
+
+    ピースの色を変更
+    
+    blueをskyblueに変更
+
+commit 8fa8db3a4e69c674b6fbc89a61451a3d5c3bf6fb
+Author: MKTY <147135481+makoty-pg@users.noreply.github.com>
+Date:   Mon May 6 15:52:50 2024 +0900
+
+    Update tetris.js
+
+commit 062fc54d62558a2eb37575c97af0e50cb2172cc6
+Author: Fujii Makoto <147135481+makoty-pg@users.noreply.github.com>
+Date:   Mon May 6 15:48:00 2024 +0900
+
+    ピースが落ちてくる速度を変更
+
+commit b9adb483896059fb77ee8c0e41f70811fd43ddfd
+Author: Fujii Makoto <147135481+makoty-pg@users.noreply.github.com>
+Date:   Mon May 6 15:38:36 2024 +0900
+
+    ピースの色をライム色に変更
+
+commit d9cbc64374a96b136fd3c2357939493ba85a2e64
+Author: Fujii Makoto <147135481+makoty-pg@users.noreply.github.com>
+Date:   Mon May 6 15:18:06 2024 +0900
+
+    canvas-tetrisのソースコードをインポート
